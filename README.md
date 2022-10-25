@@ -1,5 +1,5 @@
-# NMap_Automation
-Scripts for automating NMap     
+# Nmap_Automation
+Scripts for automating Nmap     
 
 ## Usage
 place holder 
